@@ -8,17 +8,14 @@
                   <h3>Resources</h3>
                   <ul class="menu_footer">
                      <li><a href="javascript:void(0)">Alerts</a>
-                     <li>
+
                      <li><a href="javascript:void(0)">Weather</a>
-                     <li>
+                     
                      <li><a href="javascript:void(0)">Relief-Finder</a>
-                     <li>
-                     <li><a href="javascript:void(0)">Travel Advice</a>
-                     <li>
-                     <li><a href="javascript:void(0)">Protection</a>
-                     <li>
-                     <li><a href="javascript:void(0)">Care</a>
-                     <li>
+                     
+                     <li><a href="javascript:void(0)">About Us</a>
+                     
+                     <li><a href="javascript:void(0)">Contact Us</a>
                   </ul>
                </div>
             </div>
@@ -78,5 +75,4 @@
 <script>let table = new DataTable('#mytbl');</script>
 
 </body>
-
 </html>

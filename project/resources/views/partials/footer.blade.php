@@ -7,11 +7,11 @@
                <div class="hedingh3 text_align_left">
                   <h3>Resources</h3>
                   <ul class="menu_footer">
-                     <li><a href="javascript:void(0)">Home</a>
+                     <li><a href="javascript:void(0)">Alerts</a>
                      <li>
-                     <li><a href="javascript:void(0)">What we do</a>
+                     <li><a href="javascript:void(0)">Weather</a>
                      <li>
-                     <li><a href="javascript:void(0)">Media</a>
+                     <li><a href="javascript:void(0)">Relief-Finder</a>
                      <li>
                      <li><a href="javascript:void(0)">Travel Advice</a>
                      <li>
@@ -46,14 +46,14 @@
                   </ul>
                </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
+            <!-- <div class="col-lg-4 col-md-6 col-sm-6">
                <div class="hedingh3 text_align_left">
                   <h3>countrys</h3>
                   <div class="map">
                      <img src="Assets/images/map.png" alt="#" />
                   </div>
                </div>
-            </div>
+            </div> -->
          </div>
       </div>
       <div class="copyright">

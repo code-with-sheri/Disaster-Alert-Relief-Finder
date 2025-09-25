@@ -56,9 +56,9 @@
       <div class="copyright">
          <div class="container">
             <div class="row">
-               <div class="col-md-8 offset-md-2">
+               <!-- <div class="col-md-8 offset-md-2">
                   <p>© 2020 All Rights Reserved. Design by <a href="https://html.design/"> Free html Templates</a></p>
-               </div>
+               </div> -->
             </div>
          </div>
       </div>
@@ -73,6 +73,3 @@
 <script src="Assets/js/custom.js"></script>
 <script src="Assets/DataTables/datatables.js"></script>
 <script>let table = new DataTable('#mytbl');</script>
-
-</body>
-</html>
